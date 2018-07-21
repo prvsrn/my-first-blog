@@ -1,7 +1,1 @@
-*.pyc
-*~
-__pychache__
-myvenv
-db.sqlite3
-/static
-.DS_Store
+Django==2.0.6
